@@ -25,16 +25,11 @@ include '_header.php';
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>Historia del Proyecto</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            <hr>
+            Somos un grupo de estudiantes de la carrera de Desarrollador Web Full Stack en Educación IT, gracias a Fundación Pescar, Pyme Adeneu y PAE.<br>
+            Dentro del curso, y como parte de la capacitación en habilidades blandas, nos encomendaron poner a prueba los conocimientos adquiridos y aplicarlos en un proyecto propio, pensando una web/aplicación que trajera soluciones a nuestra vida cotidiana.<br>
+            Como resultado, les presentarmos Enlace, en donde podrán tener una base de datos actualizada y certificada de los alumnos que han pasado por las distintas instituciones con las cuáles trabaja y colabora Fundación Pescar, para que las empresas que son parte de la fundación tengan información certera a la hora de buscar recientes egresados para cubrir vacantes laborales.<br>
+            De esta manera Enlace se convierte un aliado, tanto para el egresado como para la empresa, siendo esta una manera eficaz de acercar una primera oferta laboral a quien alla finalizado satisfactoriamente los estudios.
             </p>
 
           </div>
@@ -50,22 +45,22 @@ include '_header.php';
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Egresados</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="40" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Cursos</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Capacitaciones</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="350" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Pasantes Contratados</p>
           </div>
 
@@ -81,25 +76,26 @@ include '_header.php';
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <p>Visión y Misión</p>
+          <p>Misión y Visión</p>
         </div>
 
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
+        <div>
+          <div>
+            <h3>Misión</h3>
 
             <div>
-              <div>
-                <div>
-                  <img src="assets/img/testimonials/saul_goodman1.png" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
+            Ser el nexo entre el Egresado de una carrera y la Empresa que busca incorporar empleados calificados en su estructura laboral.
+            </div>
+            <hr>
+        </div>
+
+        <div>
+          <div>
+            
+          <h3>Visión</h3>
+
+            <div>
+            Ser el nexo entre el Egresado de una carrera y la Empresa que busca incorporar empleados calificados en su estructura laboral.
             </div><!-- End testimonial item -->
       </div>
     </section><!-- End Testimonials Section -->

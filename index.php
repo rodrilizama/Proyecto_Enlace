@@ -46,23 +46,25 @@ include '_header.php';
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Egresados</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="40" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Cursos</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Capacitaciones</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="350" data-purecounter-duration="2.5" class="purecounter"></span>
             <p>Pasantes Contratados</p>
+          </div>
+
           </div>
 
         </div>
@@ -308,7 +310,7 @@ include '_header.php';
                 <h4>Javier Martínez</h4>
                 <span>Desarrollador Web Full Stack</span>
                 <p>
-                  Considero que soy una persona con buenas habilidades para el trabajo en equipo, con orientación al aprendizaje continuo y responsable. Tengo conocimientos y experiencia en procesos de producción, mantenimiento, control de calidad y programacion web full stack.
+                El "che pibe" de TreeSoft
                 </p>
                 <div class="social">
                   <a href="" target="_blank"><i class="bi bi-twitter"></i></a>
